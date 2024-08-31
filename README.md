@@ -25,13 +25,19 @@ I'm Amna, a passionate frontend developer with experience in React/Next.js. I lo
 
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/amnasohaib)
+&nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/amnasohaib)
+&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/amnasohaib)
+&nbsp;
 ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/amnasohaib)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/amnasohaib)
+&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/amnasohaib)
+&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/amnasohaib)
+&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 
 <br />
