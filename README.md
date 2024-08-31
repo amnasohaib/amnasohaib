@@ -2,8 +2,9 @@
 
 I'm Amna, a passionate frontend developer with experience in React/Next.js. I love creating beautiful and responsive websites.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amnasohaib&show_icons=true)
 
-⚡ Top Languages :)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 📫 How to Reach Me
