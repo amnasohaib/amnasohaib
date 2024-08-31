@@ -7,7 +7,7 @@ I'm Amna, a passionate frontend developer with experience in React/Next.js. I lo
 <br />
 <br />
 
-<img align="right" alt="GIF" src="[https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />
 <!--  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
   
 ### 👨‍💻 Languages and Tools
