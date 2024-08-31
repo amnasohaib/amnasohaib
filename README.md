@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Amna, a passionate frontend developer with experience in React/Next.js. I love creating beautiful and responsive websites.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+📫 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/amna-sohaib-430a6b25b/)
+
 <!--
 **amnasohaib/amnasohaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
