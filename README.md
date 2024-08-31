@@ -43,8 +43,6 @@ I'm Amna, a passionate frontend developer with experience in React/Next.js. I lo
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amnasohaib&layout=compact)
-
 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/amna-sohaib-430a6b25b/)
 
