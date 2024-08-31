@@ -21,7 +21,7 @@ I'm Amna, a passionate frontend developer with experience in React/Next.js. I lo
 &nbsp;
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/amnasohaib)](https://github.com/amnasohaib)
 &nbsp;
-[[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&link=https://github.com/amnasohaib)](https://github.com/amnasohaib)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&link=https://github.com/amnasohaib)](https://github.com/amnasohaib)
 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/amnasohaib)](https://github.com/amnasohaib)
