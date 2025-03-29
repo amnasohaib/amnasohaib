@@ -2,7 +2,7 @@
 
 I'm Amna, a passionate frontend developer with experience in React/Next.js. I love creating beautiful and responsive websites.
 
-### Portfolio: https://amnasohaib.vercel.app/
+### Portfolio: https://amnasohaib.me
 
 <br />
 <br />
